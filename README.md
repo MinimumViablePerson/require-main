@@ -12,6 +12,13 @@ cd require-main
 node index.js
 ```
 
+The following will be printed:
+
+```
+hey there!
+and bye!
+```
+
 ## How it works
 
 If you look at [`/nested1/nested2/nested3/nested.js`](/nested1/nested2/nested3/nested.js) you will see the following line:
